@@ -1,0 +1,25 @@
+html {
+  background-color: #f0f0f0;
+}
+
+body {
+  font-family: 'DejaVu Sans', Arial, Helvetica;
+  font-size: 12px;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  margin: 0px auto; 
+  padding: 20px 20px; 
+  width: 850px;
+}
+
+a {
+  text-decoration: none;
+  color: #777;
+  border-bottom: 1px dotted #777;
+}
+
+a:hover {
+  color: #99cc33;
+  border-bottom: 1px solid #99cc33;
+}
+
