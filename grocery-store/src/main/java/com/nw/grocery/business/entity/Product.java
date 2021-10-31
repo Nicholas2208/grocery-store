@@ -18,7 +18,7 @@ public class Product {
 	
 	public Product() {}
 	
-	public Product(String name, BigDecimal price, boolean inStock) {
+	public Product(String name, boolean inStock, BigDecimal price) {
 		super();
 		this.name = name;
 		this.price = price;
